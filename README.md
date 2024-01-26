@@ -1,4 +1,4 @@
-# PC-controller
+# Simple PC-controller
 ### About the app
 This app was created as to control the computer by limiting its functional such as internet usage from another computer. The main was to create a timer that shutsdown or/and stops the possiblity of using internet in the target pc. The majority of code is written with Angular.
 
